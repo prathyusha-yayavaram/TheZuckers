@@ -1,0 +1,15 @@
+To make list for game:
+
+Robots
+person
+ad hover thingys
+- Likes: celebrities, things < etc
+
+Gun
+projectiles
+
+cutscenes
+map - rooms
+obstacles
+zuckerberg
+
